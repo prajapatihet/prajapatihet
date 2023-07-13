@@ -24,4 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=prajapatihet&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![het-2844's GitHub | Languages Over Time](https://stats.quine.sh/het-2844/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=het-2844))
