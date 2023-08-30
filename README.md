@@ -19,12 +19,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prajapatihet&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatihet&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prajapatihet&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prajapatihet&limit=5&theme=discord&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=prajapatihet&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
