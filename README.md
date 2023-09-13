@@ -14,11 +14,14 @@
 [![het-2844's GitHub | Stats](https://stats.quine.sh/het-2844/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=het-2844)
 [![het-2844's GitHub | Languages Over Time](https://stats.quine.sh/het-2844/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=het-2844)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prajapatihet&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prajapatihet&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatihet&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/mranv">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prajapatihet&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajapatihet&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=prajapatihet&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
