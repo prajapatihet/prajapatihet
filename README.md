@@ -22,6 +22,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajapatihet&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=prajapatihet&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
+![](https://visitcount.itsvg.in/api?id=prajapatihet&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
