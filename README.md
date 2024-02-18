@@ -4,6 +4,8 @@
 # 💫 About Me:
 👋 Hi, I’m Hetkumar Prajapati<br>👀 I’m interested in Devlopment<br>🌱 I’m currently learning Flutter for cross-platform application.<br>📫 Reach me: hetgoraj@gmail.com
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=hetprajapati28)](https://github.com/prajapatihet/github-readme)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/het226/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hetkumar-prajapati/) 
