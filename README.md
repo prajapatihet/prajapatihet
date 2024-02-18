@@ -31,5 +31,6 @@
 </a>
 </p>
 
-![](https://visitcount.itsvg.in/api?id=prajapatihet&label=Profile%20Views&pretty=true)
+<img src="https://komarev.com/ghpvc/?username=prajapatihet&color=brightgreen" alt="watching_count" />
+
 
