@@ -19,6 +19,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 [![het-2844's GitHub | Stats](https://stats.quine.sh/het-2844/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=het-2844)
+[![het-2844's GitHub | Topics Over Time](https://stats.quine.sh/het-2844/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=het-2844)
 [![het-2844's GitHub | Languages Over Time](https://stats.quine.sh/het-2844/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=het-2844)
 
 ### ⚙️ &nbsp;GitHub Analytics
