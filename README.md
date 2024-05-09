@@ -2,7 +2,9 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m Hetkumar Prajapati<br>👀 I’m interested in Devlopment<br>🌱 I’m currently learning Flutter for cross-platform application.<br>📫 Reach me: hetgoraj@gmail.com
+👋 Hi, I’m Hetkumar Prajapati<br>👀 I’m interested in Devlopment<br>🌱 I’m currently learning Flutter for cross-platform application.<br>
+Working on Latest Web Technologies like React and Django <br>
+📫 Reach me: hetgoraj@gmail.com
 
 
 
