@@ -43,8 +43,6 @@
 - [Linktree](https://linktr.ee/hetkumar_prajapati)
 - [Resume](https://drive.google.com/file/d/1nyStjBciUGqPOpxOenv8D5eLo4QoFmqD/view?usp=sharing)
 
-<br>
-
 <!-- Skills -->
 
 ## 🚀 Skills:
@@ -114,8 +112,6 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
-
-<br>
 
 <!--Trophies-->
 
