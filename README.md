@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on **a Flutter and React with APIs**
 - 🌱 I’m currently learning **More about Flutter Packages & Plugins.**
-- 🤝 I’m looking for help with **Flutter- Firebase Backend Integration.**
 - 💬 Ask me about **App Development, Git, GitHub, Open-Source Software Development**.
 - ⚡ Fun fact **I love playing Chess!**
 - 📍 Location: **India**
