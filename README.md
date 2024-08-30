@@ -118,7 +118,9 @@
 # 🏆 Trophies
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=prajapatihet&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=prajapatihet&theme=onedark&title=Stars,Followers,Repositories,Experience,Commits,Issues,PullRequest)].
+
 </div>
 
 ## 📊 GitHub Stats:
