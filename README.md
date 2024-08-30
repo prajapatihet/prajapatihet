@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <h1>Hi 👋, I'm Hetkumar Prajapati</h1>
 
-- 🔭 I’m currently working on **a Flutter Music App utilizing Spotify API.**
+- 🔭 I’m currently working on **a Flutter and React with APIs**
 - 🌱 I’m currently learning **More about Flutter Packages & Plugins.**
 - 🤝 I’m looking for help with **Flutter- Firebase Backend Integration.**
 - 💬 Ask me about **App Development, Git, GitHub, Open-Source Software Development**.
