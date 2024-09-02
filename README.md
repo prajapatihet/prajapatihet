@@ -119,7 +119,7 @@
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=prajapatihet&theme=onedark&title=Stars,Followers,Repositories,Experience,Commits,Issues,PullRequest)].
+![trophy](https://github-profile-trophy.vercel.app/?username=prajapatihet&theme=onedark&title=Stars,Followers,Repositories,Experience,Commits,Issues,PullRequest)
 
 </div>
 
