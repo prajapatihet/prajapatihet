@@ -17,23 +17,20 @@
 ## 🔗 Connect with me:
 
 <div align="left">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/hetkumar-prajapati" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
   </a>
-   <a href="#" target="_blank">
+   <a href="https://t.me/hetp44" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="58" height="40" alt="telegram logo"  />
   </a>
-  <a href="#" target="_blank">
+  <a href="mailto:hetgoraj@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="40" alt="gmail logo"  />
   </a>
-  <a href="#" target="_blank">
+  <a href="discordapp.com/users/hetkumar_prajapati" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="58" height="40" alt="discord logo"  />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://wa.me/919265504635" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="58" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="58" height="40" alt="telegram logo"  />
   </a>
 </div>
 <!-- Important Links -->
