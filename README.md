@@ -43,7 +43,7 @@
 <!-- Skills -->
 
 ## 🚀 Skills:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,appwrite,bootstrap,css,dart,django,express,firebase,flutter,git,github,html,idea,java,js,kotlin,linux,mysql,mongodb,nodejs,kotlin,php,py,ubuntu,visualstudio,postman,pycharm,react,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,appwrite,bootstrap,css,dart,docker,django,express,firebase,flutter,git,github,html,idea,java,js,kotlin,linux,mysql,mongodb,nodejs,kotlin,php,py,ubuntu,visualstudio,postman,pycharm,react,vscode)](https://skillicons.dev)
 <!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
