@@ -74,6 +74,15 @@
     <tr>
     </tr>
     <tr>
+      <td>GirlScript Summer of Code Extd (GSSoC'24 Extd) </td>
+      <td>
+        <ul>
+          <li>Role: <strong>Project Admin</strong></li>
+          <li>Guides contributors in open-source projects.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>GirlScript Summer of Code (GSSoC'24) </td>
       <td>
         <ul>
