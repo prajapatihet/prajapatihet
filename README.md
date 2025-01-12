@@ -38,7 +38,7 @@
 ## ©️ Important Links:
 
 - [Linktree](https://linktr.ee/hetkumar_prajapati)
-- [Resume](https://drive.google.com/file/d/1nyStjBciUGqPOpxOenv8D5eLo4QoFmqD/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1BQP8zidDigEIJmwxdTEpdZwpcndg6qAm/view?usp=drive_link)
 
 <!-- Skills -->
 
