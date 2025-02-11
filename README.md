@@ -66,7 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div> -->
 <br>
-<!--Achievements-->
+<!-- Achievements
 <details>
 <summary>🚀 Open Source Contributions:</summary>
   <br>
@@ -104,34 +104,34 @@
   </table>
 </details>
 
-<!--Badges-->
+<!-- Badges -->
 
-# 🎖 Badges
+<!-- # 🎖 Badges -->
 
-### GSSoC'24 Badges
+<!-- ### GSSoC'24 Badges -->
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://raw.githubusercontent.com/prajapatihet/prajapatihet/main/badges/postman.png" width="100px" height="100px" />
+<!-- <div style='display:flex; align-items:center; gap: 10px;' align='center'> -->
+  <!-- <img src="https://raw.githubusercontent.com/prajapatihet/prajapatihet/main/badges/postman.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/prajapatihet/prajapatihet/main/badges/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/prajapatihet/prajapatihet/main/badges/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/prajapatihet/prajapatihet/main/badges/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/prajapatihet/prajapatihet/main/badges/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/prajapatihet/prajapatihet/main/badges/5.png" width="100px" height="100px" />
-</div>
+</div> -->
 
-<!--Trophies-->
+<!-- Trophies -->
 
-# 🏆 Trophies
+<!-- # 🏆 Trophies
 
 <div align="center">
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=prajapatihet&theme=onedark&title=Stars,Followers,Repositories,Experience,Commits,Issues,PullRequest)
 
-</div>
+</div> -->
 
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats: -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajapatihet&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajapatihet&theme=radical">
@@ -142,10 +142,10 @@
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=prajapatihet&theme=radical">
 
 </div>
-<br>
+<br> -->
 
-<!--BuyMeCoffee -->
-<div>
+<!-- BuyMeCoffee -->
+<!-- <div>
   <p align="center">
     <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
   </p>
@@ -153,7 +153,7 @@
   <p align="center">
    <a href="https://www.buymeacoffee.com/hetprajapati"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hetprajapati&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
   </p>
-</div>
+</div> -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prajapatihet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
