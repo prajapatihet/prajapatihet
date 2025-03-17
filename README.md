@@ -128,9 +128,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=prajapatihet&theme=onedark&title=Stars,Followers,Repositories,Experience,Commits,Issues,PullRequest)
 
 </div> -->
-
 <!-- ## 📊 GitHub Stats: -->
-
 <!-- <div align="center">
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajapatihet&theme=radical">
