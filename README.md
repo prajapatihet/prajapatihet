@@ -152,6 +152,10 @@
    <a href="https://www.buymeacoffee.com/hetprajapati"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hetprajapati&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
   </p>
 </div> -->
+
+### <samp>Github Stats
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prajapatihet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
