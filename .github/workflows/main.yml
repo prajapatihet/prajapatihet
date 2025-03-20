@@ -47,7 +47,7 @@ jobs:
         # Options
           user: prajapatihet
           template: classic
-          base: header, activity, metadata
+          base: header, activity
           base_hireable: yes
           config_timezone: Asia/Calcutta
           plugin_calendar: yes
